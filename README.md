@@ -1,12 +1,6 @@
 <h2 align="left">Hi 👋! A passionate CSE Engineer researching and learning latest technologies .  Yes!! i love Space , Math , Biology and Physics other than development!!!<br>Engineering has always been my way of life :)</h2>
 
-###
 
-###
-
-
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,7 +39,7 @@
 
 </div>
 <!--  <img  height="100"  src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif"  /> -->
-###
+
 <div align="center" >
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Htivus&show_icons=true&locale=en&layout=compact" alt="Htivus" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Htivus&" alt="Htivus" /></p>
   
