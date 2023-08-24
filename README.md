@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img align="right" height="70" width="100" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif"  />
+  <img  height="70" width="100" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif"  />
 </div>
 
 ###
