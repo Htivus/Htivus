@@ -1,4 +1,4 @@
-<h2 align="left"><strong><bold>Hi 👋!</bold></strong> A passionate CSE Engineer researching and learning latest technologies . Yes!! i love Space , Math , Biology and Physics other than development!!!<br>Engineering has always been my way of life :)</h2>
+<h2 align="left"><strong><bold>Hi 👋!</bold></strong> A passionate CSE Engineer researching and learning latest technologies . Yes!! i love Space , Math , Biology, Basketball and Physics other than development!!!<br>Engineering has always been my way of life :)</h2>
 <h3 align="left">Learning NextJS and exploring CyberSecurity</h3>
 
 
