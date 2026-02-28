@@ -19,12 +19,34 @@ Engineering isn’t just what I do — it’s how I think.
 
 ---
 
+## 🔥 Current Projects
+
+### 🧠 AI Review System
+> A production-ready AI code review pipeline powered by LLM orchestration, background workers, and containerized microservices.
+
+- Async task processing
+- Dockerized architecture
+- Scalable backend services
+- Automated review + feedback system
+
+---
+
+### ⚙️ LLM + RAG Architecture Experiments
+> Designing intelligent retrieval systems using vector databases and document pipelines.
+
+- Embedding pipelines  
+- Context-aware querying  
+- Prompt optimization  
+- Modular LLM orchestration  
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
